@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.10
+numba>=0.58
+statsmodels>=0.14
+matplotlib>=3.7
+seaborn>=0.13
+pytest>=7.0
+massive
